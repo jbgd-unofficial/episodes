@@ -1,7 +1,37 @@
 # 자작 보드게임 동아리 에피소드 목록
 | 썸네일 | 제목  | 링크  | 날짜  |
 | --- | --- | --- | --- |
-| <img src="https://shared-comic.pstatic.net/thumb/nas/user_contents_data/challenge_comic/2019/09/28/hwang-han/thumbnail_article_202x120_20190928170023.jpg" height="50" title="보도블럭"/> | 보도블럭 | [베도](https://comic.naver.com/bestChallenge/detail.nhn?titleId=734597&no=1) | 2019.09.28
+| 🖼️ | 자작 보드 게임 동아리 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=442115) | 2019.03.06
+🖼️ | 1화 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=442430) | 2019.03.09
+🖼️ | 2화 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=442796) | 2019.03.13
+🖼️ | 3화 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=443114) | 2019.03.16
+🖼️ | 4화 - TRPG | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=444350) | 2019.03.27
+🖼️ | 5화 - TRPG | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=444641) | 2019.03.30
+🖼️ | 6화 - TRPG | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=445192) | 2019.04.03
+🖼️ | 셜록스캔 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=448106) | 2019.04.30
+🖼️ | 셜록스캔 下 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=448415) | 2019.05.03
+🖼️ | 철새 上 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=449182) | 2019.05.11
+🖼️ | 철새 下 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=449621) | 2019.05.15
+🖼️ | 나무 키우기 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=449868) | 2019.05.17
+🖼️ | 파라오의 금가루 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=451968) | 2019.06.04
+🖼️ | 미스 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=452302) | 2019.06.07
+🖼️ | 야근 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=452729) | 2019.06.11
+🖼️ | 낡은 책 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=453001) | 2019.06.14
+🖼️ | 레시피 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=453460) | 2019.06.18
+🖼️ | 레시피 2 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=453763) | 2019.06.21
+🖼️ | 마인드맵 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=454309) | 2019.06.25
+🖼️ | 저울질 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=455449) | 2019.07.06
+🖼️ | 모노크롬 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=456142) | 2019.07.13
+🖼️ | 주차장 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=456798) | 2019.07.19
+🖼️ | 지하철 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=458686) | 2019.08.04
+🖼️ | 엠티 낮 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=459439) | 2019.08.10
+🖼️ | 엠티 밤 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=460927) | 2019.08.18
+🖼️ | 타일사목 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=461888) | 2019.08.25
+🖼️ | 타일사목2 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=462523) | 2019.08.31
+🖼️ | 캐릭터 소개 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=462678) | 2019.09.01
+🖼️ | 원시 그대로 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=463158) | 2019.09.07
+🖼️ | 경마 게임 | [카연갤](https://gall.dcinside.com/board/view?id=cartoon&no=464543) | 2019.09.21
+<img src="https://shared-comic.pstatic.net/thumb/nas/user_contents_data/challenge_comic/2019/09/28/hwang-han/thumbnail_article_202x120_20190928170023.jpg" height="50" title="보도블럭"/> | 보도블럭 | [베도](https://comic.naver.com/bestChallenge/detail.nhn?titleId=734597&no=1) | 2019.09.28
 <img src="https://shared-comic.pstatic.net/thumb/nas/user_contents_data/challenge_comic/2019/10/05/hwang-han/thumbnail_202x120b546de63_ad4f_477d_aac7_9f9f24d92fce_00002840.JPEG" height="50" title="메두사의 눈"/> | 메두사의 눈 | [베도](https://comic.naver.com/bestChallenge/detail.nhn?titleId=734597&no=2) | 2019.10.05
 <img src="https://shared-comic.pstatic.net/thumb/nas/user_contents_data/challenge_comic/2019/10/11/hwang-han/thumbnail_202x120ea240a2c_cc07_46c8_a1ce_7c791a9e8a0e_00004084.JPEG" height="50" title="스푸키 도어즈"/> | 스푸키 도어즈 | [베도](https://comic.naver.com/bestChallenge/detail.nhn?titleId=734597&no=3) | 2019.10.11
 <img src="https://shared-comic.pstatic.net/thumb/nas/user_contents_data/challenge_comic/2019/10/19/hwang-han/thumbnail_202x1208d9752b1_37ed_453b_8c32_98de4cc4b19c_00000217.JPEG" height="50" title="토너먼트"/> | 토너먼트 | [베도](https://comic.naver.com/bestChallenge/detail.nhn?titleId=734597&no=4) | 2019.10.19
